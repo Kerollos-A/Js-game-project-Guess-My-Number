@@ -14,3 +14,6 @@ Try to guess the correct number before your score reaches 0!
 
 ## 📚 Credits
 This project was created as part of *The Complete JavaScript Course by Jonas Schmedtmann*.
+
+## liveDemo 
+https://kerollos-a.github.io/Js-game-project-Guess-My-Number/
